@@ -30,7 +30,7 @@ C:\Users\DELL\Downloads\valid
 ## 🔧 Setup Instructions
 
 1. **Clone the repository:**
- git clone https://github.com/ChAtulKumarPrusty/Plant-Disease-Detection-WebApp.git
+ git clone https://github.com/AshutoshKumar18/Plant-Disease-Detection-WebApp.git
  cd plant-disease-detector
 
 Create a virtual environment (optional but recommended):
@@ -64,12 +64,9 @@ pip freeze > requirements.txt
 
 
 🙌 Credits
-Developed by Ch Atul Kumar Prusty
+Developed by Ashutosh Kumar Ranjan
 Feel free to use, modify, and share!
 
-📬 Contact
-Linkedin: https://www.linkedin.com/in/chatulkumarprusty/
-Email: chatulprusty@gmail.com
 
 
 ---
